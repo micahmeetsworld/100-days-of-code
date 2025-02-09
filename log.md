@@ -15,7 +15,7 @@
 
 **Today's Progress**: Learned about the alternative box model. Styled recipes home page.
 
-**Thoughts**: I leaned a few new tools about how to use devtools and make changes in the side bar, and about box-border vs content-border and the differences on how those are calculated/laid out. I styled my recipes project home page to make the recipe links cards with a hover interaction.
+**Thoughts**: I learned a few new tools about how to use devtools and make changes in the side bar, and about box-border vs content-border and the differences on how those are calculated/laid out. I styled my recipes project home page to make the recipe links cards with a hover interaction. I'm feeling more confident about coding this time around, and my UX knowledge is starting to click with it.
 
 **Link(s) to work**: [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
 
