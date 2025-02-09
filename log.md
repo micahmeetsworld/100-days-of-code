@@ -7,20 +7,19 @@
 **Thoughts:** I learned about the cascade in CSS and how it prioritizes things, and finally began styling the recipes HTML files I did in a previous exercise. I'm still quite rusty, but I am getting the hang of it again. I am also getting more comfortable with navigating and using the command line in Terminal, which is cool.
 
 **Link to work:**
-[Odin Cascade Exercise](https://github.com/micahmeetsworld/odin-css-exercises/tree/10d379b5db676789ba14bab9a50681a0cf99ec45/foundations/cascade/01-cascade-fix)
+[Odin Cascade Exercise](https://github.com/micahmeetsworld/odin-css-exercises/tree/10d379b5db676789ba14bab9a50681a0cf99ec45/foundations/cascade/01-cascade-fix) | 
 [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
 
+
+### Day 2: February 08, 2025
+
+**Today's Progress**: Learned about the alternative box model. Styled recipes home page.
+
+**Thoughts**: I leaned a few new tools about how to use devtools and make changes in the side bar, and about box-border vs content-border and the differences on how those are calculated/laid out. I styled my recipes project home page to make the recipe links cards with a hover interaction.
+
+**Link(s) to work**: [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
+
 <!--
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
