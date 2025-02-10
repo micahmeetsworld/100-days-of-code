@@ -7,8 +7,8 @@
 **Thoughts:** I learned about the cascade in CSS and how it prioritizes things, and finally began styling the recipes HTML files I did in a previous exercise. I'm still quite rusty, but I am getting the hang of it again. I am also getting more comfortable with navigating and using the command line in Terminal, which is cool.
 
 **Link to work:**
-[Odin Cascade Exercise](https://github.com/micahmeetsworld/odin-css-exercises/tree/10d379b5db676789ba14bab9a50681a0cf99ec45/foundations/cascade/01-cascade-fix) | 
-[Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
+1. [Odin Cascade Exercise](https://github.com/micahmeetsworld/odin-css-exercises/tree/10d379b5db676789ba14bab9a50681a0cf99ec45/foundations/cascade/01-cascade-fix)
+2. [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
 
 
 ### Day 2: February 08, 2025
@@ -19,15 +19,13 @@
 
 **Link(s) to work**: [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
 
-<!--
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+### Day 3: February 09, 2025
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Today's Progress**: Learned about normal flow concept. Made recipe site text more legible.
+
+**Thoughts** I'm better understanding how these concepts work and able to differentiate what to use and when. For the recipe site, I decided to bring in some UX into in and be mindful of the page content width as well as the max characters per line when reading. I need to see about making sure the colors I chose are accessible and have the right contrast next time. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
-
--->
+1. [TOP block-and-inline exercises](https://github.com/micahmeetsworld/odin-css-exercises/tree/d1a0b82a2a370deda6e51073845a51760bd22711/foundations/block-and-inline)
+2. [Odin Recipes Project](https://github.com/micahmeetsworld/odin-recipes)
